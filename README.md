@@ -1,3 +1,6 @@
+## Video Demo (Preview)
+[▶️ Watch the video demo](https://drive.google.com/file/d/1uGO8I1jw1w5HvVXDWuu6ZwIO8nYrZxIn/view)
+
 # Appointment Scheduling - Frontend
 
 A modern, professional frontend interface for managing appointments and scheduling. This application is designed for clinics, salons, coworking spaces, and other service-based businesses.
